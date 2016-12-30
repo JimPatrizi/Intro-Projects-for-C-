@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1482957428 source:c:\users\jim patrizi\documents\c++_proj\p1\132_p1\main.cpp
+	<istream>
+	<iostream>
+	"Stock.h"
+
+1482955657 c:\users\jim patrizi\documents\c++_proj\p1\132_p1\stock.h
+	<string>
+
+1482957136 source:c:\users\jim patrizi\documents\c++_proj\p1\132_p1\stock.cpp
+	"Stock.h"
+	<string>
+
